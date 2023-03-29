@@ -27,7 +27,6 @@ public class Bomb {
     }
 
     public int getLife() {
-        int i = 0;
         return life;
     }
 
